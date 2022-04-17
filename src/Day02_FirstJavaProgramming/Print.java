@@ -7,5 +7,6 @@ public class Print {
         System.out.print("one");
         System.out.print("two");
         System.out.print("three");
+
     }
 }
