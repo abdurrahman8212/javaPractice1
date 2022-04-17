@@ -12,5 +12,6 @@ public class Rectangle {
         System.out.println("* * * * * *");
         System.out.println("* * * * * *");
         System.out.println("* * * * * *");
+
     }
 }
