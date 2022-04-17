@@ -6,5 +6,6 @@ public class SingleLineComment {
         // Single line comment here
 
         System.out.println("Single Line Comment above");
+
     }
 }
