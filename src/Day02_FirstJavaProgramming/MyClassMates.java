@@ -9,5 +9,6 @@ public class MyClassMates {
         System.out.println("Sally");
         System.out.println("Baha");
         System.out.println("Burhan");
+
     }
 }
